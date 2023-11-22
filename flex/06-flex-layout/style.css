@@ -9,6 +9,14 @@
   display: flex;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: auto;
+}
+
 .footer {
   margin-top: auto;
   display: flex;
