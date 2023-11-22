@@ -39,12 +39,14 @@ body {
   box-sizing: border-box;
   width: 300px;
   flex-shrink: 0;
+  padding: 16px;
 }
 
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  padding: 32px;
 }
 
 ul {
