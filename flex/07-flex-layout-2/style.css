@@ -59,6 +59,8 @@ body {
   width: 250px;
   height: 250px;
   flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 ul {
