@@ -10,6 +10,9 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
 }
 
 .container {
