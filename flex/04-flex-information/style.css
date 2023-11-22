@@ -11,6 +11,7 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
+  margin-bottom: 32px;
 }
 
 .container {
@@ -19,6 +20,7 @@ img {
   flex-wrap: wrap;
   align-items: center;
   text-align: center;
+  margin-right: 52px;
 }
 
 .wrapper {
