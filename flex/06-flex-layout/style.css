@@ -9,11 +9,17 @@
   display: flex;
 }
 
+.footer {
+  margin-top: auto;
+}
+
 body {
   height: 100vh;
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
 }
 
 ul {
