@@ -21,6 +21,10 @@ img {
   text-align: center;
 }
 
+.wrapper {
+  display: flex;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
