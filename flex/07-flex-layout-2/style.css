@@ -13,6 +13,8 @@ body {
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  font-size: 32px;
+  font-weight: 900;
 }
 
 .container {
