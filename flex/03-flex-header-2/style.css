@@ -13,6 +13,19 @@ body {
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
+  margin: 8px;
+}
+
+.container-left {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.container-right {
+  display: flex;
+  justify-content: end;
+  width: 100%;
 }
 
 .profile-image {
